@@ -9,6 +9,7 @@ Merry Chirstma
     哈哈哈
 
 上面是用空行隔开的段落
+========
 
 #### Without line change
 大家好
@@ -59,7 +60,7 @@ tribule asterisk ***realise bold%ltalic***
     emubend in list need four a tab or four blank
     "time run out"
 * mul1  
-        embedded need double tab or eight blank
+        embedded "code?" need double tab or eight blank
         <html>
         <body>
             <h1> Eembeded code block
@@ -68,33 +69,34 @@ tribule asterisk ***realise bold%ltalic***
 * mul2
 
 ### code grammer
+引号作用和python中一致  
 单词短语作为代码使用`love python`
 double quote can turn around the apostrophe  
 ``use `python` hahah ``
 ``` python
 ''hello python code''
 ```
-## underline use star or shortline
+## underline(水平线) use star or shortline
 ---
 ***
 ### 链接语法
 连接文本放在中括号内，链接放在后面括号  
 这是一个链接 [**hello link**](hyperlink.html)
 
-'<a herf="hyperlink.html">超链接现实名</a>'
+'<a herf=https://www.baidu.com>超链接现实名</a>'  
 title--悬停时现实的内容  
 这是一个链接有title [**hello link**](hyperlink.html "hello")
 百度<https://www.baidu.com>  
 title需要通过双引号扩起否则导致语法问题  
 使用%20代替空格
 代码表示的链接[`python`](https://www.python.org "python")  
-### 图片
-![tihs is picture](/img/downloadpic.jpg "demo pic")  
-图片可以嵌套超链接
-[![tihs is picture](/img/downloadpic02.jpg "demo pic")](https://www.baidu.com)  
+### 图片 %20%20%20 \![图片替代文本]\(imgPath "imgTitle")
+![tihs is picture](/hub/img/downloadpic.jpg "demo pic")  
+图片可以嵌套超链接  
+[![tihs is picture](/hub/img/downloadpic02.jpg "demo pic")](https://www.baidu.com)  
 ## Backslash "\"
 ### turn around means charater \
-& 符号其实很容易让写作网页文件的人感到困扰，如果你要打「AT&T」 ，你必须要写成「AT&amp;T」 ，还得转换网址内的 & 符号  
+& 符号其实很容易让写作网页文件的人感到困扰，如果你要打AT&T ，你必须要写成「AT&amp;T」 ，还得转换网址内的 & 符号  
 
 AT&T
 \**  

@@ -12,12 +12,14 @@
 ~~删除线~~
 
 ### To do list
-- [] 制定广东计划
-- [] 制定Git计划
-- [] linux计划
-- [] Elixir计划
-- [] 数学计划
-- [] 毕业设计计划
+#### this odds not support to do list
+- [x] 制定广东计划
+- [ ] 制定Git计划
+- [ ] linux计划
+- [ ] Elixir计划
+- [ ] 数学计划
+- [ ] 毕业设计计划
+
 
 \` 反引号禁用URL自动链接
 `https://www.baidu.com  
